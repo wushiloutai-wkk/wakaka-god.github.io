@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>方向 on 雾失楼台</title>
+    <link>https://example.org/%E6%96%B9%E5%90%91/index.html</link>
+    <description>Recent content in 方向 on 雾失楼台</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Feb 2024 20:27:12 +0800</lastBuildDate>
+    <atom:link href="https://example.org/%E6%96%B9%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微信</title>
+      <link>https://example.org/%E6%96%B9%E5%90%91/%E5%BE%AE%E4%BF%A1/index.html</link>
+      <pubDate>Sat, 24 Feb 2024 20:27:12 +0800</pubDate>
+      <guid>https://example.org/%E6%96%B9%E5%90%91/%E5%BE%AE%E4%BF%A1/index.html</guid>
+      <description>12345</description>
+    </item>
+    <item>
+      <title>水滴筹</title>
+      <link>https://example.org/%E6%96%B9%E5%90%91/%E6%B0%B4%E6%BB%B4%E7%AD%B9/index.html</link>
+      <pubDate>Sat, 24 Feb 2024 20:27:12 +0800</pubDate>
+      <guid>https://example.org/%E6%96%B9%E5%90%91/%E6%B0%B4%E6%BB%B4%E7%AD%B9/index.html</guid>
+      <description>12345</description>
+    </item>
+    <item>
+      <title>淘宝评论区</title>
+      <link>https://example.org/%E6%96%B9%E5%90%91/%E6%B7%98%E5%AE%9D/index.html</link>
+      <pubDate>Sat, 24 Feb 2024 20:27:12 +0800</pubDate>
+      <guid>https://example.org/%E6%96%B9%E5%90%91/%E6%B7%98%E5%AE%9D/index.html</guid>
+      <description>12345</description>
+    </item>
+  </channel>
+</rss>
